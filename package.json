@@ -1,0 +1,20 @@
+{
+  "name": "aritgeo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "aritGeo.js",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {
+    "mocha": "^3.5.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "ThankGod Richard",
+  "license": "ISC",
+  "dependencies": {
+    "babel-register": "^6.26.0"
+  }
+}
