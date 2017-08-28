@@ -1,5 +1,8 @@
 const assert = require('assert');
-const app = require('../aritGeo.js');
+const app = require("../aritGeo.js")
+//import {assert} from 'assert';
+//import {aritGeo as app} from'../aritGeo.js';
+
 
 describe("aritGeo", ()=>{
     describe("Array has a string", ()=>{
